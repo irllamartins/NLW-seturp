@@ -1,0 +1,14 @@
+instalações 
+npm i -D prisma
+npm i @prisma/client
+npx prisma init --datasource-provider SQLite
+npx prisma migrate dev
+npm i @fastify/cors
+npm create vite@latest
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i -D prisma-erd-generator @mermaid-js/mermaid-cli
+npx prisma generate
+
+start
+npx prisma studio

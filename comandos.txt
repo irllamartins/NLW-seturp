@@ -1,0 +1,23 @@
+instalações 
+npm i -D prisma
+npm i @prisma/client
+npx prisma init --datasource-provider SQLite
+npx prisma migrate dev
+npm i @fastify/cors
+npm create vite@latest
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npx prisma db seed
+npm i zod
+npm i dayjs
+npm i phosphor-react
+npm install @radix-ui/react-dialog
+npm install @radix-ui/react-popover
+npm i clsx
+npm i axios
+
+start
+npx prisma studio
+
+links interessantes
+https://www.radix-ui.com/
